@@ -1,0 +1,13 @@
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+classes/
+
+.DS_Store
+
+#NPM
+node_modules/
+**/npm-debug.log
